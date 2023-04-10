@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/The main method/Print  Hello, Java/out/
+/Topics/The main method/Print  Hello, Java/out/production/classes/
